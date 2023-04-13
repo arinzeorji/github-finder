@@ -1,0 +1,147 @@
+* {
+
+    margin: 0;
+    padding: 0;   
+}
+
+.container{
+    margin: 0 auto;
+    top: 100px;
+    left: 200px;
+    height: 600px;
+    width: 1200px;
+}
+.blog-preview{
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #fafafa;
+
+}
+
+.blog-preview:hover{
+    box-shadow: 1px 3px 5px rgba(0,0,0, .1);
+
+}
+
+.blog-preview h2{
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 8px;
+}
+
+.blog-preview p{
+    color: #333;
+    font-size: 15px;
+}
+
+.blog-preview h4{
+    color: #333;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-bottom: 5px; 
+}
+
+.blog-preview .blog-button{
+    padding: 8px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    border-radius: 7px;
+    color: #fff;
+    background: #f1356d;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin: 12px 0;
+    transition: all 0.4s;
+}
+.blog-preview .blog-button:hover{
+    transform: rotateX(30deg) scaleX(1.2);
+}
+
+.blog-preview a {
+    text-decoration: none;
+}
+
+.create{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.create label{
+    text-align: left;
+    display: block;
+}
+
+.create h2{
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+
+}
+ 
+.delete-btn, .create button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    padding: 8px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

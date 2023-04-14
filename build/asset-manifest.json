@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/arinzeorji/react-photoappstatic/css/main.f3f48c3e.css",
+    "main.js": "/arinzeorji/react-photoappstatic/js/main.63e2022c.js",
+    "static/media/spin.gif": "/arinzeorji/react-photoappstatic/media/spin.02fa77cc791a4d88c25f.gif",
+    "index.html": "/arinzeorji/react-photoappindex.html",
+    "main.f3f48c3e.css.map": "/arinzeorji/react-photoappstatic/css/main.f3f48c3e.css.map",
+    "main.63e2022c.js.map": "/arinzeorji/react-photoappstatic/js/main.63e2022c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f48c3e.css",
+    "static/js/main.63e2022c.js"
+  ]
+}
